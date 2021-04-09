@@ -12,7 +12,7 @@ import java.util.concurrent.ExecutionException;
 
 public class ProducerDemo {
     private static final String BOOTSTRAP_SERVER = "0.0.0.0:9092";
-    private static final String TOPIC = "java_topic";
+    private static final String TOPIC = "java_topic_1";
     private static final String MESSAGE = "hello world";
 
     /*
